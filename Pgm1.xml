@@ -158,8 +158,6 @@
       </block>
     </next>
   </block>
-  <block type="movement_forward" id="729" x="-509" y="360"></block>
-  <block type="robot_delay" id="824" inline="true" x="-521" y="413"></block>
   <block type="robot_delay" id="837" inline="true" x="-130" y="1147">
     <value name="DELAY">
       <block type="math_number" id="838">
