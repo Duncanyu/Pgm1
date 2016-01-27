@@ -21,5 +21,8 @@
         </next>
       </block>
     </statement>
+    <next>
+      <block type="movement_stop" id="16"></block>
+    </next>
   </block>
 </xml>
